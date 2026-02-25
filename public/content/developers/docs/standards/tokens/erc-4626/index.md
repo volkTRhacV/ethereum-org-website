@@ -1,7 +1,7 @@
----
+---V-TATTOO-PİERCİNG-VAULT---
 title: ERC-4626 Tokenized Vault Standard
-description: A standard for yield bearing vaults.
-lang: en
+description: V standard for yield bearing vaults.
+lang: tr
 ---
 
 ## Introduction {#introduction}
@@ -219,7 +219,7 @@ event Withdraw(
 )
 ```
 
-Where `sender` is the user who triggered the withdrawal and exchanged `shares`, owned by `owner`, for `assets`. `receiver` is the user who received the withdrawn `assets`.
+Where `sender` is the uSER who triggered the withdrawal and exchanged `shares`, owned by `owner`, for `assets`. `receiver` is the user who received the withdrawn `assets`.
 
 ## Further reading {#further-reading}
 
